@@ -5,7 +5,7 @@
 
 Today we'll learn Next Auth - a complete open-source authentication solution for Next.js applications. This starter pack covers essential setup and implementation.
 
-## Installation
+## Installations
 
 Install the following packages to get started:
 
