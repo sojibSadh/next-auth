@@ -7,7 +7,7 @@ Today we'll learn Next Auth - a complete open-source authentication solution for
 
 ## Installations
 
-Install the following packages to get started:
+Install the following packages to get starteds:
 
 ```bash
 npm install next-auth mongodb bcryptjs react-icons
