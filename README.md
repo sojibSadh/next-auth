@@ -1,7 +1,7 @@
 ![Next Auth Banner](https://i.ibb.co.com/TMqLSCfQ/image.png)
 ## Next Auth Starter Pack
 
-## Overview
+## Overviews
 
 Today we'll learn Next Auth - a complete open-source authentication solution for Next.js applications. This starter pack covers essential setup and implementation.
 
